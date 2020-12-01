@@ -12,4 +12,8 @@ class Calcular
     def getPrecioUnitario()
         return @precio_unitario
     end
+
+    def getEstado()
+        
+    end
 end
